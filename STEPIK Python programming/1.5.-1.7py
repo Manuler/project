@@ -1,0 +1,11 @@
+print(7//3)
+
+print(int(2.9))
+
+print(1.2345e-3)
+
+print(1.2345e3)
+
+print(9**19 - int(float(9**19)))
+
+print(type(7))
